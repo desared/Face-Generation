@@ -1,6 +1,7 @@
 # Face-Generation
+Project for [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), unit 5.
 
-This is the final Udacity Project from the Deep Learning Nanodegree. It consist of generating new images of faces that look as realistic as possible. 
+This project consist of generating new images of faces that look as realistic as possible. 
 The goal is to generate new faces using Generative Adversarial Networks (GANs). The model is trained on the CelebFaces Attributes Dataset (CelebA). 
 
 ## Steps:
